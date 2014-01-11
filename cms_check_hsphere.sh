@@ -22,6 +22,8 @@ server_IP_list(){
 # Check CMS for New Domain
 # WordPress, Joomla, PHPBB
 check_cms(){
+# Will put on WP
+
 
 }
 
