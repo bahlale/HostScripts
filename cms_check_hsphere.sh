@@ -1,5 +1,6 @@
 # Build Domain list from Apache Config
 domain_list(){
+	
 
 }
 
@@ -20,7 +21,7 @@ server_IP_list(){
 }
 
 # Check CMS for New Domain
-# WordPress, Joomla, PHPBB
+# WordPress, Joomla, PHPBB. Drupal
 check_cms(){
 # Will put on WP
 
